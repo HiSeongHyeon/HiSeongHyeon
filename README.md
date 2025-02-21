@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm SeongHyeon!<br>Now I'm studying Model Compression using Network Pruning.<br><br>- 🔭 Major : Mechanical and Information Engineering (University of Seoul)<br>- 📚 Sub-Major : Artificial Intelligence (AI) (University of Seoul)<br>- ⚡ RTES Lab (Real-Time Embeded System)</p>
+<p align="left">I'm SeongHyeon!<br>Now I'm studying Model Compression using Network Pruning.<br><br>- :mortar_board:<br>🔭 Major : Mechanical and Information Engineering (University of Seoul)<br>- 📚 Sub-Major : Artificial Intelligence (AI) (University of Seoul)<br>- ⚡ RTES Lab (Real-Time Embeded System)</p>
 
 ###
 
